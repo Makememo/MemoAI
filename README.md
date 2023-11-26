@@ -2,7 +2,7 @@
 
 Ai-powered podcast, video-to-text, and subtitling tools for immediate experience: https://memo.ac
 
-- Twitter: https://twitter.com/Memoacy
+- Twitter: https://twitter.com/FemoHQ
 - MemoAI What's New: https://memo.ac/releases.html
 
 ## Introduce
