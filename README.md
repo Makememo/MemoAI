@@ -1,9 +1,9 @@
 # Memo AI
 
-Ai-powered podcast, video-to-text, and subtitling tools for immediate experience: https://memo.ac
+Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.
 
 - Twitter: https://twitter.com/FemoHQ
-- MemoAI What's New: https://memo.ac/releases.html
+- MemoAI What's New: https://memo.ac/releases
 
 ## Introduce
 
