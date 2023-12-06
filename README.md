@@ -3,7 +3,7 @@
 Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.
 
 - Twitter: https://twitter.com/FemoHQ
-- MemoAI What's New: https://memo.ac/releases
+- What's New: https://memo.ac/releases
 
 ## Introduce
 
@@ -15,7 +15,8 @@ Welcome to MemoAI. This article will show you all the capabilities of Memo and h
 
 Memo support macOS Silicon、macOS Intel、Windows.
 
-https://github.com/Makememo/MemoAI/releases
+
+[https://github.com/Makememo/MemoAI/releases](https://memo.ac/releases)
 
 
 ## Audio and video transcribe
