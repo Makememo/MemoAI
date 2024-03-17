@@ -1,9 +1,10 @@
-# Memo AI
 
-Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.
+<p align="center">
+  <img src="https://github.com/Makememo/MemoAI/assets/140973261/ceecb7fa-ce6c-43cf-b8ad-6ec86bbffd7d" width="200px">
+</p>
 
-- Twitter: https://twitter.com/FemoHQ
-- What's New: https://memo.ac/releases
+<H1 align="center">Memo AI</H1>
+<p align="center">Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.</p>
 
 ## Introduce
 
@@ -74,3 +75,8 @@ Memo Support the export of SRT, VTT and other subtitle formats to help you save 
 
 
 ![eKbMxynPEZHW6kD](https://vip2.loli.io/2023/10/04/eKbMxynPEZHW6kD.png)
+
+## Social media
+
+- Twitter: https://twitter.com/FemoHQ
+- What's New: https://memo.ac/releases
