@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Makememo/MemoAI/assets/140973261/ceecb7fa-ce6c-43cf-b8ad-6ec86bbffd7d" width="200px">
+  <a href="https://memo.ac"><img src="https://github.com/Makememo/MemoAI/assets/140973261/ceecb7fa-ce6c-43cf-b8ad-6ec86bbffd7d" width="150px"></a>
 </p>
 
 <H1 align="center">Memo AI</H1>
