@@ -2,6 +2,12 @@
 <p align="center">
   <a href="https://memo.ac"><img src="https://github.com/Makememo/MemoAI/assets/140973261/ceecb7fa-ce6c-43cf-b8ad-6ec86bbffd7d" width="150px"></a>
 </p>
+<p align="center">
+	<a href="https://memo.ac"><img src="https://img.shields.io/badge/Official Website-memo.ac-brightgreen?logo=Safari" alt="Website" /></a>
+  <a href="https://twitter.com/FemoHQ"><img src="https://img.shields.io/badge/Twitter-@FemoHQ-blue?logo=Twitter" alt="Twitter" /></a>
+    <a href="https://discord.com/invite/kU8w5JgJxT"><img src="https://img.shields.io/badge/discord-1000-Purple?logo=Discord" alt="Memo AI" /></a>
+</p>
+
 
 <H2 align="center">Memo AI</H2>
 <p align="center">Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.</p>
