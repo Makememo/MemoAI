@@ -12,7 +12,7 @@
 <H2 align="center">Memo AI</H2>
 <p align="center">Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.</p>
 
-## Introduce
+## Introduction
 
 Welcome to MemoAI. This article will show you all the capabilities of Memo and how to use it.
 
@@ -34,13 +34,13 @@ Memo supports online and local audio and video file conversion.
 
 ![naAivRZTJeEwPdo](https://vip2.loli.io/2023/10/04/naAivRZTJeEwPdo.png)
 
-1. Copy YouTube link or podcast link (only the small universe is currently supported)
+1. Copy YouTube link or podcast link
 2. Paste into the Memo input box
-3. Click transcribe to start the conversion. In the process
+3. Click transcribe to start the conversion process.
 
 ### Local transcribe
 
-Memo local conversion supports MP4, MP3, AAC, M4A and other common audio and video formats, and there is no need to convert the format before uploading to text. Note that there are no special characters in the local conversion name, otherwise Memo cannot be read.
+MemoAI can transcribe local files in audio and video formats such as MP4, MP3, AAC, M4A, etc. without the need for conversion. Please note that the name of the file to be converted should not contain special characters, otherwise MemoAI will not recognize it.
 
 
 ## Transcribe
@@ -53,7 +53,7 @@ Need AI output paragraph effect? You can directly adjust the maximum number of w
 
 ### Local subtitles
 
-If you already have local subtitles and just need translation ability, please click to upload subtitles. SRT and VTT formats are currently supported.
+If you already have a subtitle file and only need to translate it, you can upload the file directly. We currently support SRT and VTT formats.
 
 ## Translated text
 
@@ -70,15 +70,14 @@ If the translation is not satisfactory, you can click the line translation optio
 
 ### Speech synthesis
 
-Support a variety of speech synthesis, other languages can also listen fluently.
+We support a variety of speech synthesis methods, and other translated languages can be dubbed over the original media.
 
 ![XfLIBzcvK65CxEJ](https://vip2.loli.io/2023/10/04/XfLIBzcvK65CxEJ.png)
 
 
 ## Export text and subtitles
 
-Memo Support the export of SRT, VTT and other subtitle formats to help you save the tediousness of manual scrolling. Tools such as Markdown also support export synchronously.
-
+Memo supports exporting common subtitle formats such as SRT, VTT, etc., eliminating the need for manual adjustments. We also support synchronized export with Markdown and other tools.
 
 ![eKbMxynPEZHW6kD](https://vip2.loli.io/2023/10/04/eKbMxynPEZHW6kD.png)
 
