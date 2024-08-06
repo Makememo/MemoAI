@@ -16,7 +16,7 @@
 
 Welcome to MemoAI. This article will show you all the capabilities of Memo and how to use it.
 
-![P1Op5XfnI9iZslz](https://vip2.loli.io/2023/10/04/P1Op5XfnI9iZslz.png)
+![Memo AI](https://cdn.sa.net/2024/06/12/Z4nQ213LxwgmMTW.jpg)
 
 ## Download and install
 
