@@ -20,7 +20,7 @@ Welcome to MemoAI. This article will show you all the capabilities of Memo and h
 
 ## Download and install
 
-Memo support macOS Silicon、macOS Intel、Windows.
+Memo support macOS Silicon, macOS Intel and Windows.
 
 
 [https://github.com/Makememo/MemoAI/releases](https://memo.ac/releases)
